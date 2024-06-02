@@ -3,13 +3,13 @@ package edu.stevens.ssw555;
 public class Individual {
 
 	
-	private String id;
-	private String name;
-	private String sex;
-	private String birth;
-	private String death;
-	private String spouseOf;
-	private String childOf;
+	public String id;
+	public String name;
+	public String sex;
+	public String birth;
+	public String death;
+	public String spouseOf;
+	public String childOf;
 	
 	
 	public String getId() {

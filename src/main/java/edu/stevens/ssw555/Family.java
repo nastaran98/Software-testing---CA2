@@ -6,13 +6,13 @@ import java.util.ArrayList;
 
 public class Family {
 
-	private String id;
-	private String husb;
-	private String marriage;
-	private String divorce;
+	public String id;
+	public String husb;
+	public String marriage;
+	public String divorce;
 	
-	private String wife;
-	private ArrayList<String> child;
+	public String wife;
+	public ArrayList<String> child;
 	
 	public String getId() {
 		return id;
